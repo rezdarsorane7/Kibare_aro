@@ -5,7 +5,7 @@ const moment = require("moment")
 
 
 module.exports = {
-    name: 'serverinfo',
+    name: '/serverinfo',
     aliases: ['sinfo'],
     category: '🔰 Info',
     memberpermissions: [],
