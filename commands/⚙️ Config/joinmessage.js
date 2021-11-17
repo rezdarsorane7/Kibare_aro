@@ -5,7 +5,7 @@ const Joinmsg = require('../../utils/models/joinmsg');
 
 
 module.exports = {
-    name: 'welcome-msg',
+    name: '/welcome-msg',
     aliases: ["joinmsg", "welcomemsg", "jmsg"],
     category: '⚙️ Config',
     memberpermissions: ['MANAGE_CHANNELS'],
