@@ -2,7 +2,7 @@ const { Client, Message, MessageEmbed } = require('discord.js');
 const config = require("../../config/config.json");
 
 module.exports = {
-  name: 'ping',
+  name: '/ping',
   category: "🔰 Info",
   aliases: ['api'],
   cooldown: 5,
