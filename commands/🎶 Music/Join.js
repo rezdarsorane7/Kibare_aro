@@ -5,7 +5,7 @@ const distube = require("../../utils/distubeClient");
 const { prefix } = require("../..");
 
 module.exports = {
-  name: "stop",
+  name: "/stop",
   aliases: ["s"],
   category: "🎶 Music",
   permissions: " ",
