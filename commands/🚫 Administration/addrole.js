@@ -3,7 +3,7 @@ var ee = require('../../config/embed.json');
 var config = require('../../config/config.json');
 
 module.exports = {
-    name: 'addrole',
+    name: '/addrole',
     aliases: ['giverole'],
     category: '🚫 Administration',
     memberpermissions: ['MANAGE_ROLES'],
