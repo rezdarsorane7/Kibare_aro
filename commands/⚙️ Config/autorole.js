@@ -5,7 +5,7 @@ const roleData = require('../../utils/models/autorole');
 
 
 module.exports = {
-    name: 'autorole',
+    name: '/autorole',
     aliases: ['arole'],
     category: '⚙️ Config',
     memberpermissions: ['MANAGE_ROLES'],
