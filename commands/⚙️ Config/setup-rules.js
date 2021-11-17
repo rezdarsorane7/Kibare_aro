@@ -4,7 +4,7 @@ var config = require('../../config/config.json');
 
 
 module.exports = {
-    name: 'setuprules',
+    name: '/setuprules',
     aliases: ["rules", 'setup-rules'],
     category: '⚙️ Config',
     memberpermissions: ['ADMINISTRATOR'],
