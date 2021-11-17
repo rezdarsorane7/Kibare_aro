@@ -3,8 +3,8 @@ var ee = require('../../config/embed.json');
 var config = require('../../config/config.json');
 
 module.exports = {
-    name: 'leaveserver',
-    aliases: [''],
+    name: '/leaveserver',
+    aliases: ['l'],
     category: ' ',
     memberpermissions: [],
     cooldown: 5,
