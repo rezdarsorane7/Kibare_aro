@@ -4,7 +4,7 @@ var config = require("../../config/config.json");
 const distube = require("../../utils/distubeClient");
 
 module.exports = {
-  name: "rewind",
+  name: "/rewind",
   aliases: ["rw"],
   category: "🎶 Music",
   permissions: " ",
