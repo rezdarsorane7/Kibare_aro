@@ -3,7 +3,7 @@ var ee = require('../../config/embed.json');
 var config = require('../../config/config.json');
 
 module.exports = {
-    name: 'ban',
+    name: '/ban',
     aliases: ['bhagja'],
     category: '🚫 Administration',
     memberpermissions: ['BAN_MEMBERS'],
