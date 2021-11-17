@@ -5,7 +5,7 @@ const distube = require("../../utils/distubeClient");
 var { getData, getPreview, getTracks } = require("spotify-url-info");
 
 module.exports = {
-  name: "play",
+  name: "/play",
   aliases: ["p"],
   category: "🎶 Music",
   permissions: "",
