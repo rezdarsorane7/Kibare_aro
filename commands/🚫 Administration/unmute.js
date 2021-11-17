@@ -5,7 +5,7 @@ const Schema = require("../../utils/models/mute");
 
 
 module.exports = {
-    name: 'unmute',
+    name: '/unmute',
     aliases: ['mafkiya'],
     category: '🚫 Administration',
     memberpermissions: ['MUTE_MEMBERS'],
