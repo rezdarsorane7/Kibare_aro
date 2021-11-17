@@ -3,7 +3,7 @@ var ee = require('../../config/embed.json');
 var config = require('../../config/config.json');
 
 module.exports = {
-    name: 'deleteallmessages',
+    name: '/deleteallmessages',
     aliases: ['delmsg'],
     category: '🚫 Administration',
     memberpermissions: ['MANAGE_CHANNELS'],
