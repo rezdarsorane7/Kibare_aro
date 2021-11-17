@@ -4,7 +4,7 @@ var config = require('../../config/config.json');
 const ms = require("ms");
 
 module.exports = {
-    name: 'g-reroll',
+    name: '/g-reroll',
     aliases: ['roll', 'giveway-reroll'],
     category: '🎁 Giveaway',
     memberpermissions: ["MANAGE_CHANNELS"],
