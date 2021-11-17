@@ -4,7 +4,7 @@ var config = require('../../config/config.json');
 
 
 module.exports = {
-    name: 'jointocreate',
+    name: '/jointocreate',
     aliases: ["j2c"],
     category: '⚙️ Config',
     memberpermissions: ['MANAGE_CHANNELS'],
