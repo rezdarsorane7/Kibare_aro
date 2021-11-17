@@ -3,7 +3,7 @@ var ee = require('../../config/embed.json');
 var config = require('../../config/config.json');
 
 module.exports = {
-    name: 'resetnick',
+    name: '/resetnick',
     aliases: ['rest-nick'],
     category: '🚫 Administration',
     memberpermissions: ['MANAGE_NICKNAMES'],
