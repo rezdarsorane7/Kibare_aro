@@ -4,7 +4,7 @@ var config = require('../../config/config.json');
 const ms = require("ms");
 
 module.exports = {
-    name: 'g-start',
+    name: '/g-start',
     aliases: ['start', 'giveway'],
     category: '🎁 Giveaway',
     memberpermissions: ["MANAGE_CHANNELS"],
