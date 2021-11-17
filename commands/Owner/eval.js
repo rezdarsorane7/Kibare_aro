@@ -4,7 +4,7 @@ var config = require('../../config/config.json');
 
 module.exports = {
     name: '/eval',
-    aliases: [''],
+    aliases: ['e'],
     category: ' ',
     memberpermissions: [],
     cooldown: 5,
