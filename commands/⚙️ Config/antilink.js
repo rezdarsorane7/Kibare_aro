@@ -5,7 +5,7 @@ const antilink = require('../../utils/models/antilink');
 
 
 module.exports = {
-    name: 'antilink',
+    name: '/antilink',
     aliases: ['pl'],
     category: '⚙️ Config',
     memberpermissions: ['ADMINISTRATOR'],
