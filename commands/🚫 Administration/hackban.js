@@ -3,7 +3,7 @@ var ee = require('../../config/embed.json');
 var config = require('../../config/config.json');
 
 module.exports = {
-    name: 'hackban',
+    name: '/hackban',
     aliases: ['bns'],
     category: '🚫 Administration',
     memberpermissions: ['ADMINISTRATOR'],
