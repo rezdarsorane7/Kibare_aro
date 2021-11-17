@@ -5,7 +5,7 @@ const joinchannel = require('../../utils/models/welcome');
 
 
 module.exports = {
-    name: 'welcome-channel',
+    name: '/welcome-channel',
     aliases: ["jchannel", "welcome"],
     category: '⚙️ Config',
     memberpermissions: ['MANAGE_CHANNELS'],
