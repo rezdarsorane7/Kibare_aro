@@ -5,7 +5,7 @@ const ms = require("ms");
 const Schema = require("../../utils/models/mute");
 
 module.exports = {
-  name: "mute",
+  name: "/mute",
   aliases: ["chup"],
   category: '🚫 Administration',
   memberpermissions: ['MUTE_MEMBERS'],
