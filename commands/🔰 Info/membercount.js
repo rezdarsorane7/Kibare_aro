@@ -2,7 +2,7 @@ const { Client, Message, MessageEmbed } = require('discord.js');
 const config = require("../../config/config.json");
 
 module.exports = {
-    name: 'membercount',
+    name: '/membercount',
     category: "🔰 Info",
     aliases: ['members'],
     cooldown: 5,
