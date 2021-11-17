@@ -5,7 +5,7 @@ const moment = require('moment');
 
 
 module.exports = {
-    name: 'roleinfo',
+    name: '/roleinfo',
     aliases: ['rinfo'],
     category: '🔰 Info',
     memberpermissions: [],
