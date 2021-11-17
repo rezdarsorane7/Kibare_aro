@@ -4,7 +4,7 @@ var config = require('../../config/config.json');
 const ms = require('ms')
 
 module.exports = {
-    name: 'voicemove',
+    name: '/voicemove',
     aliases: ['vcmove'],
     category: '🚫 Administration',
     memberpermissions: ['MOVE_MEMBERS'],
