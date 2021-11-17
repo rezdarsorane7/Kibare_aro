@@ -2,7 +2,7 @@ const { Client, Message, MessageEmbed } = require('discord.js');
 const config = require("../../config/config.json");
 const ee = require('../../config/embed.json')
 module.exports = {
-    name: 'uptime',
+    name: '/uptime',
     category: "🔰 Info",
     aliases: ['uptime'],
     cooldown: 5,
