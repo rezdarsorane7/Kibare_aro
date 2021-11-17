@@ -4,7 +4,7 @@ var config = require('../../config/config.json');
 const ms = require('ms')
 
 module.exports = {
-    name: 'lock',
+    name: '/lock',
     aliases: ['pl'],
     category: '🚫 Administration',
     memberpermissions: ['MANAGE_CHANNELS'],
