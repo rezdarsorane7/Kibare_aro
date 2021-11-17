@@ -4,7 +4,7 @@ var config = require('../../config/config.json');
 const { MessageButton, MessageActionRow } = require("discord-buttons")
 
 module.exports = {
-    name: 'setupverify',
+    name: '/setupverify',
     aliases: ['vr'],
     category: '🚫 Administration',
     memberpermissions: [],
