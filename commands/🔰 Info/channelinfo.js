@@ -5,7 +5,7 @@ const moment = require('moment');
 
 
 module.exports = {
-    name: 'channelinfo',
+    name: 'c/hannelinfo',
     aliases: ['chinfo'],
     category: '🔰 Info',
     memberpermissions: [],
