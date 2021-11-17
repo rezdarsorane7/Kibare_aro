@@ -36,7 +36,7 @@ const statuses = {
 
 
 module.exports = {
-    name: 'userinfo',
+    name: '/userinfo',
     aliases: ['uinfo'],
     category: '🔰 Info',
     memberpermissions: [],
