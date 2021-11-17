@@ -6,7 +6,7 @@ const schema = require('../../utils/models/antiraid');
 
 
 module.exports = {
-    name: 'antiraid',
+    name: '/antiraid',
     aliases: ['anti-raid'],
     category: '⚙️ Config',
     memberpermissions: ['ADMINISTRATOR'],
