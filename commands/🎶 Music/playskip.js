@@ -5,7 +5,7 @@ const distube = require("../../utils/distubeClient");
 var { getData, getPreview, getTracks } = require("spotify-url-info");
 
 module.exports = {
-  name: "playskip",
+  name: "/playskip",
   aliases: ["pskip"],
   category: "🎶 Music",
   permissions: "",
