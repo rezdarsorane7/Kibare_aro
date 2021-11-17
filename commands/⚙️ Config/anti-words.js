@@ -5,7 +5,7 @@ const antiwordsSchema = require('../../utils/models/antilink');
 
 
 module.exports = {
-    name: 'antiword',
+    name: '/antiword',
     aliases: ['aw'],
     category: '⚙️ Config',
     memberpermissions: ['ADMINISTRATOR'],
