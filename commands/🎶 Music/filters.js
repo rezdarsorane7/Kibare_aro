@@ -4,7 +4,7 @@ var config = require("../../config/config.json");
 const distube = require("../../utils/distubeClient");
 
 module.exports = {
-  name: "filter",
+  name: "/filter",
   aliases: ["sk"],
   category: "🎶 Music",
   permissions: " ",
