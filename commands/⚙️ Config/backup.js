@@ -5,7 +5,7 @@ const backup = require("discord-backup");
 
 
 module.exports = {
-    name: 'backup',
+    name: '/backup',
     aliases: ["backupserver"],
     category: '⚙️ Config',
     memberpermissions: ['ADMINISTRATOR'],
