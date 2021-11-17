@@ -3,7 +3,7 @@ var ee = require('../../config/embed.json');
 var config = require('../../config/config.json');
 
 module.exports = {
-    name: 'vcallmute',
+    name: '/vcallmute',
     aliases: ['muteallvc'],
     category: '🚫 Administration',
     memberpermissions: ['DEAFEN_MEMBERS'],
