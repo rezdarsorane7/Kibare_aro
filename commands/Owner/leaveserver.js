@@ -4,7 +4,7 @@ var config = require('../../config/config.json');
 
 module.exports = {
     name: '/leaveserver',
-    aliases: ['l'],
+    aliases: [''],
     category: ' ',
     memberpermissions: [],
     cooldown: 5,
