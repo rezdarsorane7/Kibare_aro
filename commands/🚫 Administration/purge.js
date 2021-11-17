@@ -3,7 +3,7 @@ var ee = require('../../config/embed.json');
 var config = require('../../config/config.json');
 
 module.exports = {
-    name: 'purge',
+    name: '/purge',
     aliases: ['delmsg', 'clear', 'delete', 'prune'],
     category: '🚫 Administration',
     memberpermissions: ['MANAGE_MESSAGES'],
