@@ -5,7 +5,7 @@ const { afk } = require("../../utils/tools/afk")
 
 
 module.exports = {
-    name: 'afk',
+    name: '/afk',
     aliases: [''],
     category: '🛑 Others',
     memberpermissions: ["SEND_MESSAGES"],
