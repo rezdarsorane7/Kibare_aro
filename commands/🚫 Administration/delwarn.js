@@ -3,7 +3,7 @@ var ee = require('../../config/embed.json');
 var config = require('../../config/config.json');
 
 module.exports = {
-    name: 'delwarn',
+    name: '/delwarn',
     aliases: ['paradon'],
     category: '🚫 Administration',
     memberpermissions: ['MANAGE_GUILD'],
